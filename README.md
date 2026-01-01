@@ -1,3 +1,3 @@
 # Public Data Science Project
 ## Air trafiic movements
-"add airtraffic moveents"
+"add airtraffic movements"
